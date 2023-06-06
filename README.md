@@ -1,11 +1,11 @@
 
 # Title
 
-h
+read me generator
 
 ## Description
 
-h
+the following application promts the user enter informationa and it will create a read me file 
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ h
 
 ## Installation
 
-h
+this is how to install ...
 
 ## Usage
 
-h
+automatically create a README file
 
 ## License
     
@@ -34,15 +34,15 @@ This application is using MIT license.
 
 ## Contributing
 
-h
+enter contributors
 
 ## Tests
 
-
+test.test.
 
 ## Contact Info:
 
 You can reach me here:
-* [GitHub](https://github.com/h)
-* Email: h
+* [GitHub](https://github.com/hkchebli)
+* Email: hkchebli96@gmail.com
 
